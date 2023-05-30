@@ -1,0 +1,10 @@
+{
+    "eslint.format.enable": true,
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+}
